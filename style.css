@@ -1,0 +1,101 @@
+.body{
+
+background-color: khaki;
+}
+
+
+h3{
+
+    font-family: 'Bebas Neue', cursive;
+}
+H4{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+border-style: outset;
+text-align: center;
+padding: 10px;
+margin: 5px;
+background-color:rgb(255, 255, 4)
+
+}
+main{
+    float: left both;
+    border-style:ridge;
+    background-color:#ff9292;
+    border-style: double;
+}
+aside{
+
+float:right;
+border-style: double;
+text-align: center;
+padding: 10px;
+margin: 10px;
+background-color:rgb(255, 169, 176)
+
+}
+
+footer{
+    float: left both;
+    border-style:inherit;
+     background-color:rgb(255, 223, 154);
+     
+}
+.padre{
+    border-style: outset;
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 5px;
+    background-color:rgb(255, 255, 0);
+}
+
+.card-body{
+    width: 100%;
+height: 430px;
+    align-items: center;
+justify-content: center;
+display: flex;
+
+}
+
+.container {
+
+width: 100%;
+display: flex;
+max-width: 1100px;
+
+
+
+}
+.card{
+    width: 330px;
+    height: 430px;
+    border-radius: 8px;
+overflow: hidden;
+    background-color:rgb(235, 201, 128);;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    cursor:default;
+
+}
+
+
+
+.container.card img{
+    width: 330px;
+    height: 220px;
+    justify-content: center;
+
+
+}
+.CONTENIDO{
+    background-color: rgb(255, 158, 67);
+}
+
+
+
+ 
+ 
+
